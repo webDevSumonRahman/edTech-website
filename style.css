@@ -26,5 +26,45 @@ body{
 .Ready-to-join {
     padding:50px 80px;
     margin-top: 130px;
+    margin-bottom: 130px;
     color: white;
+}
+.meet-student{
+    margin-bottom: 130px;
+}
+.studens-feedback{
+   
+    margin-bottom: 130px;
+}
+.student-feedback-author{
+    
+    line-height: 1px;
+    
+}
+.first-auther{
+    position: relative;
+}
+.back-arrow{
+    position:absolute;
+    top: 275px;
+    left:-1px;
+    right: 200px;
+}
+.forward-arrow{
+    position:absolute;
+    top: 275px;
+    left:1265px;
+    right: 200px;
+}
+.Frequently-Asked-Questions{
+    margin-bottom: 130px;
+}
+.faq-accordion{
+    width: 65%;
+}
+.Trusted-companies{
+    margin-bottom: 130px;
+}
+footer{
+    height: 472px;
 }
