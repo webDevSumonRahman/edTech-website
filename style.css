@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+:root{
+    --pramiry-font:'Poppins', sans-serif;
+}
+body{
+    font-family: var(--pramiry-font);
+}
