@@ -9,6 +9,7 @@
 body{
     font-family: var(--pramiry-font);
 }
+
 .navigation{
     margin-top:35px;
 }
@@ -52,9 +53,11 @@ body{
 }
 .forward-arrow{
     position:absolute;
+   
+    
     top: 275px;
-    left:1265px;
-    right: 200px;
+    left:1090px;
+    ;
 }
 .Frequently-Asked-Questions{
     margin-bottom: 130px;
@@ -66,6 +69,13 @@ body{
     margin-bottom: 130px;
 }
 footer{
-    background-color:#161616 ;
+    background-color:black ;
     height: 472px;
+}
+.course-img{
+    height: 100%;
+    width: 100%;
+    object-position:center;
+    object-fit: cover;
+    
 }
